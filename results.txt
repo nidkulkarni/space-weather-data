@@ -1,0 +1,1517 @@
+Fuzzy Output (Space Weather Conditions):
+Fuzzy Output (Space Weather Conditions):
+Signal 1: solar flare
+Signal 2: cosmic ray
+Signal 3: solar flare
+Signal 4: cosmic ray
+Signal 5: solar flare
+Signal 6: cosmic ray
+Signal 7: solar flare
+Signal 8: solar flare
+Signal 9: solar flare
+Signal 10: cosmic ray
+Signal 11: cosmic ray
+Signal 12: cosmic ray
+Signal 13: cosmic ray
+Signal 14: cosmic ray
+Signal 15: solar flare
+Signal 16: cosmic ray
+Signal 17: cosmic ray
+Signal 18: cosmic ray
+Signal 19: solar flare
+Signal 20: cosmic ray
+Signal 21: solar flare
+Signal 22: solar flare
+Signal 23: cosmic ray
+Signal 24: solar flare
+Signal 25: cosmic ray
+Signal 26: solar flare
+Signal 27: cosmic ray
+Signal 28: cosmic ray
+Signal 29: cosmic ray
+Signal 30: solar flare
+Signal 31: cosmic ray
+Signal 32: cosmic ray
+Signal 33: solar flare
+Signal 34: solar flare
+Signal 35: solar flare
+Signal 36: solar flare
+Signal 37: solar flare
+Signal 38: solar flare
+Signal 39: solar flare
+Signal 40: cosmic ray
+Signal 41: solar flare
+Signal 42: cosmic ray
+Signal 43: cosmic ray
+Signal 44: cosmic ray
+Signal 45: solar flare
+Signal 46: solar flare
+Signal 47: cosmic ray
+Signal 48: solar flare
+Signal 49: solar flare
+Signal 50: solar flare
+Signal 51: cosmic ray
+Signal 52: cosmic ray
+Signal 53: solar flare
+Signal 54: solar flare
+Signal 55: solar flare
+Signal 56: cosmic ray
+Signal 57: solar flare
+Signal 58: solar flare
+Signal 59: cosmic ray
+Signal 60: cosmic ray
+Signal 61: solar flare
+Signal 62: solar flare
+Signal 63: cosmic ray
+Signal 64: solar flare
+Signal 65: solar flare
+Signal 66: cosmic ray
+Signal 67: cosmic ray
+Signal 68: cosmic ray
+Signal 69: cosmic ray
+Signal 70: cosmic ray
+Signal 71: solar flare
+Signal 72: cosmic ray
+Signal 73: cosmic ray
+Signal 74: cosmic ray
+Signal 75: solar flare
+Signal 76: solar flare
+Signal 77: solar flare
+Signal 78: cosmic ray
+Signal 79: cosmic ray
+Signal 80: cosmic ray
+Signal 81: cosmic ray
+Signal 82: cosmic ray
+Signal 83: solar flare
+Signal 84: solar flare
+Signal 85: cosmic ray
+Signal 86: solar flare
+Signal 87: solar flare
+Signal 88: solar flare
+Signal 89: solar flare
+Signal 90: solar flare
+Signal 91: cosmic ray
+Signal 92: solar flare
+Signal 93: cosmic ray
+Signal 94: cosmic ray
+Signal 95: solar flare
+Signal 96: solar flare
+Signal 97: cosmic ray
+Signal 98: solar flare
+Signal 99: solar flare
+Signal 100: cosmic ray
+Signal 101: cosmic ray
+Signal 102: cosmic ray
+Signal 103: cosmic ray
+Signal 104: solar flare
+Signal 105: cosmic ray
+Signal 106: cosmic ray
+Signal 107: cosmic ray
+Signal 108: solar flare
+Signal 109: cosmic ray
+Signal 110: cosmic ray
+Signal 111: cosmic ray
+Signal 112: solar flare
+Signal 113: cosmic ray
+Signal 114: cosmic ray
+Signal 115: cosmic ray
+Signal 116: solar flare
+Signal 117: cosmic ray
+Signal 118: cosmic ray
+Signal 119: cosmic ray
+Signal 120: solar flare
+Signal 121: solar flare
+Signal 122: solar flare
+Signal 123: cosmic ray
+Signal 124: cosmic ray
+Signal 125: cosmic ray
+Signal 126: solar flare
+Signal 127: solar flare
+Signal 128: solar flare
+Signal 129: solar flare
+Signal 130: cosmic ray
+Signal 131: cosmic ray
+Signal 132: solar flare
+Signal 133: solar flare
+Signal 134: solar flare
+Signal 135: solar flare
+Signal 136: solar flare
+Signal 137: solar flare
+Signal 138: cosmic ray
+Signal 139: solar flare
+Signal 140: cosmic ray
+Signal 141: solar flare
+Signal 142: solar flare
+Signal 143: cosmic ray
+Signal 144: solar flare
+Signal 145: solar flare
+Signal 146: solar flare
+Signal 147: solar flare
+Signal 148: solar flare
+Signal 149: cosmic ray
+Signal 150: cosmic ray
+Signal 151: solar flare
+Signal 152: cosmic ray
+Signal 153: solar flare
+Signal 154: cosmic ray
+Signal 155: cosmic ray
+Signal 156: cosmic ray
+Signal 157: solar flare
+Signal 158: cosmic ray
+Signal 159: solar flare
+Signal 160: cosmic ray
+Signal 161: solar flare
+Signal 162: solar flare
+Signal 163: solar flare
+Signal 164: solar flare
+Signal 165: solar flare
+Signal 166: cosmic ray
+Signal 167: solar flare
+Signal 168: solar flare
+Signal 169: solar flare
+Signal 170: solar flare
+Signal 171: solar flare
+Signal 172: cosmic ray
+Signal 173: cosmic ray
+Signal 174: solar flare
+Signal 175: solar flare
+Signal 176: solar flare
+Signal 177: solar flare
+Signal 178: cosmic ray
+Signal 179: solar flare
+Signal 180: solar flare
+Signal 181: cosmic ray
+Signal 182: cosmic ray
+Signal 183: cosmic ray
+Signal 184: solar flare
+Signal 185: solar flare
+Signal 186: cosmic ray
+Signal 187: cosmic ray
+Signal 188: solar flare
+Signal 189: cosmic ray
+Signal 190: cosmic ray
+Signal 191: cosmic ray
+Signal 192: cosmic ray
+Signal 193: cosmic ray
+Signal 194: cosmic ray
+Signal 195: solar flare
+Signal 196: cosmic ray
+Signal 197: cosmic ray
+Signal 198: solar flare
+Signal 199: solar flare
+Signal 200: solar flare
+Signal 201: cosmic ray
+Signal 202: cosmic ray
+Signal 203: cosmic ray
+Signal 204: cosmic ray
+Signal 205: solar flare
+Signal 206: cosmic ray
+Signal 207: solar flare
+Signal 208: cosmic ray
+Signal 209: cosmic ray
+Signal 210: solar flare
+Signal 211: cosmic ray
+Signal 212: cosmic ray
+Signal 213: solar flare
+Signal 214: solar flare
+Signal 215: solar flare
+Signal 216: solar flare
+Signal 217: solar flare
+Signal 218: solar flare
+Signal 219: cosmic ray
+Signal 220: cosmic ray
+Signal 221: solar flare
+Signal 222: cosmic ray
+Signal 223: cosmic ray
+Signal 224: solar flare
+Signal 225: cosmic ray
+Signal 226: solar flare
+Signal 227: cosmic ray
+Signal 228: cosmic ray
+Signal 229: solar flare
+Signal 230: solar flare
+Signal 231: cosmic ray
+Signal 232: cosmic ray
+Signal 233: cosmic ray
+Signal 234: cosmic ray
+Signal 235: cosmic ray
+Signal 236: solar flare
+Signal 237: cosmic ray
+Signal 238: cosmic ray
+Signal 239: solar flare
+Signal 240: cosmic ray
+Signal 241: solar flare
+Signal 242: solar flare
+Signal 243: cosmic ray
+Signal 244: solar flare
+Signal 245: solar flare
+Signal 246: solar flare
+Signal 247: solar flare
+Signal 248: cosmic ray
+Signal 249: solar flare
+Signal 250: cosmic ray
+Signal 251: solar flare
+Signal 252: cosmic ray
+Signal 253: cosmic ray
+Signal 254: solar flare
+Signal 255: solar flare
+Signal 256: solar flare
+Signal 257: cosmic ray
+Signal 258: solar flare
+Signal 259: cosmic ray
+Signal 260: cosmic ray
+Signal 261: solar flare
+Signal 262: solar flare
+Signal 263: cosmic ray
+Signal 264: cosmic ray
+Signal 265: cosmic ray
+Signal 266: cosmic ray
+Signal 267: solar flare
+Signal 268: cosmic ray
+Signal 269: solar flare
+Signal 270: cosmic ray
+Signal 271: cosmic ray
+Signal 272: solar flare
+Signal 273: solar flare
+Signal 274: solar flare
+Signal 275: solar flare
+Signal 276: solar flare
+Signal 277: cosmic ray
+Signal 278: solar flare
+Signal 279: cosmic ray
+Signal 280: cosmic ray
+Signal 281: cosmic ray
+Signal 282: cosmic ray
+Signal 283: cosmic ray
+Signal 284: cosmic ray
+Signal 285: solar flare
+Signal 286: cosmic ray
+Signal 287: solar flare
+Signal 288: solar flare
+Signal 289: cosmic ray
+Signal 290: solar flare
+Signal 291: solar flare
+Signal 292: solar flare
+Signal 293: cosmic ray
+Signal 294: solar flare
+Signal 295: solar flare
+Signal 296: cosmic ray
+Signal 297: solar flare
+Signal 298: cosmic ray
+Signal 299: cosmic ray
+Signal 300: solar flare
+Signal 301: solar flare
+Signal 302: cosmic ray
+Signal 303: solar flare
+Signal 304: cosmic ray
+Signal 305: cosmic ray
+Signal 306: solar flare
+Signal 307: cosmic ray
+Signal 308: cosmic ray
+Signal 309: cosmic ray
+Signal 310: solar flare
+Signal 311: solar flare
+Signal 312: cosmic ray
+Signal 313: solar flare
+Signal 314: solar flare
+Signal 315: cosmic ray
+Signal 316: solar flare
+Signal 317: cosmic ray
+Signal 318: solar flare
+Signal 319: solar flare
+Signal 320: cosmic ray
+Signal 321: solar flare
+Signal 322: solar flare
+Signal 323: solar flare
+Signal 324: solar flare
+Signal 325: cosmic ray
+Signal 326: solar flare
+Signal 327: cosmic ray
+Signal 328: solar flare
+Signal 329: cosmic ray
+Signal 330: cosmic ray
+Signal 331: cosmic ray
+Signal 332: solar flare
+Signal 333: cosmic ray
+Signal 334: cosmic ray
+Signal 335: solar flare
+Signal 336: solar flare
+Signal 337: solar flare
+Signal 338: solar flare
+Signal 339: cosmic ray
+Signal 340: cosmic ray
+Signal 341: solar flare
+Signal 342: cosmic ray
+Signal 343: solar flare
+Signal 344: cosmic ray
+Signal 345: cosmic ray
+Signal 346: cosmic ray
+Signal 347: solar flare
+Signal 348: solar flare
+Signal 349: cosmic ray
+Signal 350: solar flare
+Signal 351: solar flare
+Signal 352: cosmic ray
+Signal 353: cosmic ray
+Signal 354: cosmic ray
+Signal 355: solar flare
+Signal 356: cosmic ray
+Signal 357: cosmic ray
+Signal 358: solar flare
+Signal 359: solar flare
+Signal 360: cosmic ray
+Signal 361: cosmic ray
+Signal 362: cosmic ray
+Signal 363: cosmic ray
+Signal 364: cosmic ray
+Signal 365: solar flare
+Signal 366: solar flare
+Signal 367: cosmic ray
+Signal 368: cosmic ray
+Signal 369: solar flare
+Signal 370: cosmic ray
+Signal 371: solar flare
+Signal 372: solar flare
+Signal 373: solar flare
+Signal 374: cosmic ray
+Signal 375: solar flare
+Signal 376: solar flare
+Signal 377: cosmic ray
+Signal 378: solar flare
+Signal 379: cosmic ray
+Signal 380: cosmic ray
+Signal 381: cosmic ray
+Signal 382: cosmic ray
+Signal 383: cosmic ray
+Signal 384: cosmic ray
+Signal 385: cosmic ray
+Signal 386: solar flare
+Signal 387: solar flare
+Signal 388: solar flare
+Signal 389: solar flare
+Signal 390: cosmic ray
+Signal 391: cosmic ray
+Signal 392: cosmic ray
+Signal 393: cosmic ray
+Signal 394: cosmic ray
+Signal 395: solar flare
+Signal 396: cosmic ray
+Signal 397: cosmic ray
+Signal 398: cosmic ray
+Signal 399: solar flare
+Signal 400: solar flare
+Signal 401: solar flare
+Signal 402: solar flare
+Signal 403: cosmic ray
+Signal 404: cosmic ray
+Signal 405: cosmic ray
+Signal 406: solar flare
+Signal 407: solar flare
+Signal 408: solar flare
+Signal 409: cosmic ray
+Signal 410: solar flare
+Signal 411: cosmic ray
+Signal 412: cosmic ray
+Signal 413: cosmic ray
+Signal 414: solar flare
+Signal 415: cosmic ray
+Signal 416: solar flare
+Signal 417: solar flare
+Signal 418: cosmic ray
+Signal 419: cosmic ray
+Signal 420: solar flare
+Signal 421: solar flare
+Signal 422: solar flare
+Signal 423: cosmic ray
+Signal 424: solar flare
+Signal 425: cosmic ray
+Signal 426: solar flare
+Signal 427: cosmic ray
+Signal 428: solar flare
+Signal 429: cosmic ray
+Signal 430: solar flare
+Signal 431: cosmic ray
+Signal 432: solar flare
+Signal 433: cosmic ray
+Signal 434: solar flare
+Signal 435: cosmic ray
+Signal 436: cosmic ray
+Signal 437: cosmic ray
+Signal 438: solar flare
+Signal 439: cosmic ray
+Signal 440: solar flare
+Signal 441: cosmic ray
+Signal 442: cosmic ray
+Signal 443: cosmic ray
+Signal 444: cosmic ray
+Signal 445: solar flare
+Signal 446: cosmic ray
+Signal 447: cosmic ray
+Signal 448: cosmic ray
+Signal 449: solar flare
+Signal 450: solar flare
+Signal 451: cosmic ray
+Signal 452: cosmic ray
+Signal 453: cosmic ray
+Signal 454: solar flare
+Signal 455: cosmic ray
+Signal 456: solar flare
+Signal 457: cosmic ray
+Signal 458: cosmic ray
+Signal 459: solar flare
+Signal 460: solar flare
+Signal 461: cosmic ray
+Signal 462: solar flare
+Signal 463: cosmic ray
+Signal 464: cosmic ray
+Signal 465: solar flare
+Signal 466: cosmic ray
+Signal 467: cosmic ray
+Signal 468: solar flare
+Signal 469: solar flare
+Signal 470: cosmic ray
+Signal 471: cosmic ray
+Signal 472: solar flare
+Signal 473: solar flare
+Signal 474: cosmic ray
+Signal 475: cosmic ray
+Signal 476: cosmic ray
+Signal 477: cosmic ray
+Signal 478: cosmic ray
+Signal 479: solar flare
+Signal 480: solar flare
+Signal 481: solar flare
+Signal 482: solar flare
+Signal 483: solar flare
+Signal 484: solar flare
+Signal 485: cosmic ray
+Signal 486: solar flare
+Signal 487: cosmic ray
+Signal 488: cosmic ray
+Signal 489: cosmic ray
+Signal 490: solar flare
+Signal 491: cosmic ray
+Signal 492: solar flare
+Signal 493: solar flare
+Signal 494: cosmic ray
+Signal 495: solar flare
+Signal 496: cosmic ray
+Signal 497: solar flare
+Signal 498: solar flare
+Signal 499: cosmic ray
+Signal 500: solar flare
+
+Selected Coding Strategy:
+Selected Coding Strategy:
+Signal 1: Convolutional
+Signal 2: Hybrid
+Signal 3: Convolutional
+Signal 4: Hybrid
+Signal 5: Convolutional
+Signal 6: Hybrid
+Signal 7: Convolutional
+Signal 8: Convolutional
+Signal 9: Convolutional
+Signal 10: Hybrid
+Signal 11: Hybrid
+Signal 12: Hybrid
+Signal 13: Hybrid
+Signal 14: Hybrid
+Signal 15: Convolutional
+Signal 16: Hybrid
+Signal 17: Hybrid
+Signal 18: Hybrid
+Signal 19: Convolutional
+Signal 20: Hybrid
+Signal 21: Convolutional
+Signal 22: Convolutional
+Signal 23: Hybrid
+Signal 24: Convolutional
+Signal 25: Hybrid
+Signal 26: Convolutional
+Signal 27: Hybrid
+Signal 28: Hybrid
+Signal 29: Hybrid
+Signal 30: Convolutional
+Signal 31: Hybrid
+Signal 32: Hybrid
+Signal 33: Convolutional
+Signal 34: Convolutional
+Signal 35: Convolutional
+Signal 36: Convolutional
+Signal 37: Convolutional
+Signal 38: Convolutional
+Signal 39: Convolutional
+Signal 40: Hybrid
+Signal 41: Convolutional
+Signal 42: Hybrid
+Signal 43: Hybrid
+Signal 44: Hybrid
+Signal 45: Convolutional
+Signal 46: Convolutional
+Signal 47: Hybrid
+Signal 48: Convolutional
+Signal 49: Convolutional
+Signal 50: Convolutional
+Signal 51: Hybrid
+Signal 52: Hybrid
+Signal 53: Convolutional
+Signal 54: Convolutional
+Signal 55: Convolutional
+Signal 56: Hybrid
+Signal 57: Convolutional
+Signal 58: Convolutional
+Signal 59: Hybrid
+Signal 60: Hybrid
+Signal 61: Convolutional
+Signal 62: Convolutional
+Signal 63: Hybrid
+Signal 64: Convolutional
+Signal 65: Convolutional
+Signal 66: Hybrid
+Signal 67: Hybrid
+Signal 68: Hybrid
+Signal 69: Hybrid
+Signal 70: Hybrid
+Signal 71: Convolutional
+Signal 72: Hybrid
+Signal 73: Hybrid
+Signal 74: Hybrid
+Signal 75: Convolutional
+Signal 76: Convolutional
+Signal 77: Convolutional
+Signal 78: Hybrid
+Signal 79: Hybrid
+Signal 80: Hybrid
+Signal 81: Hybrid
+Signal 82: Hybrid
+Signal 83: Convolutional
+Signal 84: Convolutional
+Signal 85: Hybrid
+Signal 86: Convolutional
+Signal 87: Convolutional
+Signal 88: Convolutional
+Signal 89: Convolutional
+Signal 90: Convolutional
+Signal 91: Hybrid
+Signal 92: Convolutional
+Signal 93: Hybrid
+Signal 94: Hybrid
+Signal 95: Convolutional
+Signal 96: Convolutional
+Signal 97: Hybrid
+Signal 98: Convolutional
+Signal 99: Convolutional
+Signal 100: Hybrid
+Signal 101: Hybrid
+Signal 102: Hybrid
+Signal 103: Hybrid
+Signal 104: Convolutional
+Signal 105: Hybrid
+Signal 106: Hybrid
+Signal 107: Hybrid
+Signal 108: Convolutional
+Signal 109: Hybrid
+Signal 110: Hybrid
+Signal 111: Hybrid
+Signal 112: Convolutional
+Signal 113: Hybrid
+Signal 114: Hybrid
+Signal 115: Hybrid
+Signal 116: Convolutional
+Signal 117: Hybrid
+Signal 118: Hybrid
+Signal 119: Hybrid
+Signal 120: Convolutional
+Signal 121: Convolutional
+Signal 122: Convolutional
+Signal 123: Hybrid
+Signal 124: Hybrid
+Signal 125: Hybrid
+Signal 126: Convolutional
+Signal 127: Convolutional
+Signal 128: Convolutional
+Signal 129: Convolutional
+Signal 130: Hybrid
+Signal 131: Hybrid
+Signal 132: Convolutional
+Signal 133: Convolutional
+Signal 134: Convolutional
+Signal 135: Convolutional
+Signal 136: Convolutional
+Signal 137: Convolutional
+Signal 138: Hybrid
+Signal 139: Convolutional
+Signal 140: Hybrid
+Signal 141: Convolutional
+Signal 142: Convolutional
+Signal 143: Hybrid
+Signal 144: Convolutional
+Signal 145: Convolutional
+Signal 146: Convolutional
+Signal 147: Convolutional
+Signal 148: Convolutional
+Signal 149: Hybrid
+Signal 150: Hybrid
+Signal 151: Convolutional
+Signal 152: Hybrid
+Signal 153: Convolutional
+Signal 154: Hybrid
+Signal 155: Hybrid
+Signal 156: Hybrid
+Signal 157: Convolutional
+Signal 158: Hybrid
+Signal 159: Convolutional
+Signal 160: Hybrid
+Signal 161: Convolutional
+Signal 162: Convolutional
+Signal 163: Convolutional
+Signal 164: Convolutional
+Signal 165: Convolutional
+Signal 166: Hybrid
+Signal 167: Convolutional
+Signal 168: Convolutional
+Signal 169: Convolutional
+Signal 170: Convolutional
+Signal 171: Convolutional
+Signal 172: Hybrid
+Signal 173: Hybrid
+Signal 174: Convolutional
+Signal 175: Convolutional
+Signal 176: Convolutional
+Signal 177: Convolutional
+Signal 178: Hybrid
+Signal 179: Convolutional
+Signal 180: Convolutional
+Signal 181: Hybrid
+Signal 182: Hybrid
+Signal 183: Hybrid
+Signal 184: Convolutional
+Signal 185: Convolutional
+Signal 186: Hybrid
+Signal 187: Hybrid
+Signal 188: Convolutional
+Signal 189: Hybrid
+Signal 190: Hybrid
+Signal 191: Hybrid
+Signal 192: Hybrid
+Signal 193: Hybrid
+Signal 194: Hybrid
+Signal 195: Convolutional
+Signal 196: Hybrid
+Signal 197: Hybrid
+Signal 198: Convolutional
+Signal 199: Convolutional
+Signal 200: Convolutional
+Signal 201: Hybrid
+Signal 202: Hybrid
+Signal 203: Hybrid
+Signal 204: Hybrid
+Signal 205: Convolutional
+Signal 206: Hybrid
+Signal 207: Convolutional
+Signal 208: Hybrid
+Signal 209: Hybrid
+Signal 210: Convolutional
+Signal 211: Hybrid
+Signal 212: Hybrid
+Signal 213: Convolutional
+Signal 214: Convolutional
+Signal 215: Convolutional
+Signal 216: Convolutional
+Signal 217: Convolutional
+Signal 218: Convolutional
+Signal 219: Hybrid
+Signal 220: Hybrid
+Signal 221: Convolutional
+Signal 222: Hybrid
+Signal 223: Hybrid
+Signal 224: Convolutional
+Signal 225: Hybrid
+Signal 226: Convolutional
+Signal 227: Hybrid
+Signal 228: Hybrid
+Signal 229: Convolutional
+Signal 230: Convolutional
+Signal 231: Hybrid
+Signal 232: Hybrid
+Signal 233: Hybrid
+Signal 234: Hybrid
+Signal 235: Hybrid
+Signal 236: Convolutional
+Signal 237: Hybrid
+Signal 238: Hybrid
+Signal 239: Convolutional
+Signal 240: Hybrid
+Signal 241: Convolutional
+Signal 242: Convolutional
+Signal 243: Hybrid
+Signal 244: Convolutional
+Signal 245: Convolutional
+Signal 246: Convolutional
+Signal 247: Convolutional
+Signal 248: Hybrid
+Signal 249: Convolutional
+Signal 250: Hybrid
+Signal 251: Convolutional
+Signal 252: Hybrid
+Signal 253: Hybrid
+Signal 254: Convolutional
+Signal 255: Convolutional
+Signal 256: Convolutional
+Signal 257: Hybrid
+Signal 258: Convolutional
+Signal 259: Hybrid
+Signal 260: Hybrid
+Signal 261: Convolutional
+Signal 262: Convolutional
+Signal 263: Hybrid
+Signal 264: Hybrid
+Signal 265: Hybrid
+Signal 266: Hybrid
+Signal 267: Convolutional
+Signal 268: Hybrid
+Signal 269: Convolutional
+Signal 270: Hybrid
+Signal 271: Hybrid
+Signal 272: Convolutional
+Signal 273: Convolutional
+Signal 274: Convolutional
+Signal 275: Convolutional
+Signal 276: Convolutional
+Signal 277: Hybrid
+Signal 278: Convolutional
+Signal 279: Hybrid
+Signal 280: Hybrid
+Signal 281: Hybrid
+Signal 282: Hybrid
+Signal 283: Hybrid
+Signal 284: Hybrid
+Signal 285: Convolutional
+Signal 286: Hybrid
+Signal 287: Convolutional
+Signal 288: Convolutional
+Signal 289: Hybrid
+Signal 290: Convolutional
+Signal 291: Convolutional
+Signal 292: Convolutional
+Signal 293: Hybrid
+Signal 294: Convolutional
+Signal 295: Convolutional
+Signal 296: Hybrid
+Signal 297: Convolutional
+Signal 298: Hybrid
+Signal 299: Hybrid
+Signal 300: Convolutional
+Signal 301: Convolutional
+Signal 302: Hybrid
+Signal 303: Convolutional
+Signal 304: Hybrid
+Signal 305: Hybrid
+Signal 306: Convolutional
+Signal 307: Hybrid
+Signal 308: Hybrid
+Signal 309: Hybrid
+Signal 310: Convolutional
+Signal 311: Convolutional
+Signal 312: Hybrid
+Signal 313: Convolutional
+Signal 314: Convolutional
+Signal 315: Hybrid
+Signal 316: Convolutional
+Signal 317: Hybrid
+Signal 318: Convolutional
+Signal 319: Convolutional
+Signal 320: Hybrid
+Signal 321: Convolutional
+Signal 322: Convolutional
+Signal 323: Convolutional
+Signal 324: Convolutional
+Signal 325: Hybrid
+Signal 326: Convolutional
+Signal 327: Hybrid
+Signal 328: Convolutional
+Signal 329: Hybrid
+Signal 330: Hybrid
+Signal 331: Hybrid
+Signal 332: Convolutional
+Signal 333: Hybrid
+Signal 334: Hybrid
+Signal 335: Convolutional
+Signal 336: Convolutional
+Signal 337: Convolutional
+Signal 338: Convolutional
+Signal 339: Hybrid
+Signal 340: Hybrid
+Signal 341: Convolutional
+Signal 342: Hybrid
+Signal 343: Convolutional
+Signal 344: Hybrid
+Signal 345: Hybrid
+Signal 346: Hybrid
+Signal 347: Convolutional
+Signal 348: Convolutional
+Signal 349: Hybrid
+Signal 350: Convolutional
+Signal 351: Convolutional
+Signal 352: Hybrid
+Signal 353: Hybrid
+Signal 354: Hybrid
+Signal 355: Convolutional
+Signal 356: Hybrid
+Signal 357: Hybrid
+Signal 358: Convolutional
+Signal 359: Convolutional
+Signal 360: Hybrid
+Signal 361: Hybrid
+Signal 362: Hybrid
+Signal 363: Hybrid
+Signal 364: Hybrid
+Signal 365: Convolutional
+Signal 366: Convolutional
+Signal 367: Hybrid
+Signal 368: Hybrid
+Signal 369: Convolutional
+Signal 370: Hybrid
+Signal 371: Convolutional
+Signal 372: Convolutional
+Signal 373: Convolutional
+Signal 374: Hybrid
+Signal 375: Convolutional
+Signal 376: Convolutional
+Signal 377: Hybrid
+Signal 378: Convolutional
+Signal 379: Hybrid
+Signal 380: Hybrid
+Signal 381: Hybrid
+Signal 382: Hybrid
+Signal 383: Hybrid
+Signal 384: Hybrid
+Signal 385: Hybrid
+Signal 386: Convolutional
+Signal 387: Convolutional
+Signal 388: Convolutional
+Signal 389: Convolutional
+Signal 390: Hybrid
+Signal 391: Hybrid
+Signal 392: Hybrid
+Signal 393: Hybrid
+Signal 394: Hybrid
+Signal 395: Convolutional
+Signal 396: Hybrid
+Signal 397: Hybrid
+Signal 398: Hybrid
+Signal 399: Convolutional
+Signal 400: Convolutional
+Signal 401: Convolutional
+Signal 402: Convolutional
+Signal 403: Hybrid
+Signal 404: Hybrid
+Signal 405: Hybrid
+Signal 406: Convolutional
+Signal 407: Convolutional
+Signal 408: Convolutional
+Signal 409: Hybrid
+Signal 410: Convolutional
+Signal 411: Hybrid
+Signal 412: Hybrid
+Signal 413: Hybrid
+Signal 414: Convolutional
+Signal 415: Hybrid
+Signal 416: Convolutional
+Signal 417: Convolutional
+Signal 418: Hybrid
+Signal 419: Hybrid
+Signal 420: Convolutional
+Signal 421: Convolutional
+Signal 422: Convolutional
+Signal 423: Hybrid
+Signal 424: Convolutional
+Signal 425: Hybrid
+Signal 426: Convolutional
+Signal 427: Hybrid
+Signal 428: Convolutional
+Signal 429: Hybrid
+Signal 430: Convolutional
+Signal 431: Hybrid
+Signal 432: Convolutional
+Signal 433: Hybrid
+Signal 434: Convolutional
+Signal 435: Hybrid
+Signal 436: Hybrid
+Signal 437: Hybrid
+Signal 438: Convolutional
+Signal 439: Hybrid
+Signal 440: Convolutional
+Signal 441: Hybrid
+Signal 442: Hybrid
+Signal 443: Hybrid
+Signal 444: Hybrid
+Signal 445: Convolutional
+Signal 446: Hybrid
+Signal 447: Hybrid
+Signal 448: Hybrid
+Signal 449: Convolutional
+Signal 450: Convolutional
+Signal 451: Hybrid
+Signal 452: Hybrid
+Signal 453: Hybrid
+Signal 454: Convolutional
+Signal 455: Hybrid
+Signal 456: Convolutional
+Signal 457: Hybrid
+Signal 458: Hybrid
+Signal 459: Convolutional
+Signal 460: Convolutional
+Signal 461: Hybrid
+Signal 462: Convolutional
+Signal 463: Hybrid
+Signal 464: Hybrid
+Signal 465: Convolutional
+Signal 466: Hybrid
+Signal 467: Hybrid
+Signal 468: Convolutional
+Signal 469: Convolutional
+Signal 470: Hybrid
+Signal 471: Hybrid
+Signal 472: Convolutional
+Signal 473: Convolutional
+Signal 474: Hybrid
+Signal 475: Hybrid
+Signal 476: Hybrid
+Signal 477: Hybrid
+Signal 478: Hybrid
+Signal 479: Convolutional
+Signal 480: Convolutional
+Signal 481: Convolutional
+Signal 482: Convolutional
+Signal 483: Convolutional
+Signal 484: Convolutional
+Signal 485: Hybrid
+Signal 486: Convolutional
+Signal 487: Hybrid
+Signal 488: Hybrid
+Signal 489: Hybrid
+Signal 490: Convolutional
+Signal 491: Hybrid
+Signal 492: Convolutional
+Signal 493: Convolutional
+Signal 494: Hybrid
+Signal 495: Convolutional
+Signal 496: Hybrid
+Signal 497: Convolutional
+Signal 498: Convolutional
+Signal 499: Hybrid
+Signal 500: Convolutional
+
+Decoded Signals:
+Decoded Signals:
+Signal 1: 1
+Signal 2: 1
+Signal 3: 1
+Signal 4: 0
+Signal 5: 0
+Signal 6: 0
+Signal 7: 1
+Signal 8: 1
+Signal 9: 0
+Signal 10: 0
+Signal 11: 0
+Signal 12: 0
+Signal 13: 0
+Signal 14: 1
+Signal 15: 1
+Signal 16: 1
+Signal 17: 0
+Signal 18: 0
+Signal 19: 1
+Signal 20: 1
+Signal 21: 1
+Signal 22: 0
+Signal 23: 1
+Signal 24: 0
+Signal 25: 0
+Signal 26: 1
+Signal 27: 1
+Signal 28: 0
+Signal 29: 1
+Signal 30: 1
+Signal 31: 1
+Signal 32: 0
+Signal 33: 1
+Signal 34: 0
+Signal 35: 1
+Signal 36: 1
+Signal 37: 1
+Signal 38: 0
+Signal 39: 0
+Signal 40: 0
+Signal 41: 0
+Signal 42: 1
+Signal 43: 0
+Signal 44: 1
+Signal 45: 0
+Signal 46: 0
+Signal 47: 1
+Signal 48: 1
+Signal 49: 0
+Signal 50: 0
+Signal 51: 0
+Signal 52: 0
+Signal 53: 1
+Signal 54: 1
+Signal 55: 1
+Signal 56: 1
+Signal 57: 0
+Signal 58: 0
+Signal 59: 0
+Signal 60: 1
+Signal 61: 1
+Signal 62: 1
+Signal 63: 0
+Signal 64: 1
+Signal 65: 1
+Signal 66: 0
+Signal 67: 0
+Signal 68: 0
+Signal 69: 0
+Signal 70: 1
+Signal 71: 0
+Signal 72: 0
+Signal 73: 0
+Signal 74: 0
+Signal 75: 0
+Signal 76: 0
+Signal 77: 0
+Signal 78: 1
+Signal 79: 0
+Signal 80: 0
+Signal 81: 0
+Signal 82: 0
+Signal 83: 1
+Signal 84: 1
+Signal 85: 1
+Signal 86: 0
+Signal 87: 1
+Signal 88: 0
+Signal 89: 1
+Signal 90: 1
+Signal 91: 0
+Signal 92: 1
+Signal 93: 0
+Signal 94: 1
+Signal 95: 0
+Signal 96: 1
+Signal 97: 0
+Signal 98: 1
+Signal 99: 0
+Signal 100: 0
+Signal 101: 1
+Signal 102: 1
+Signal 103: 1
+Signal 104: 0
+Signal 105: 0
+Signal 106: 0
+Signal 107: 1
+Signal 108: 1
+Signal 109: 0
+Signal 110: 1
+Signal 111: 0
+Signal 112: 1
+Signal 113: 0
+Signal 114: 0
+Signal 115: 1
+Signal 116: 1
+Signal 117: 0
+Signal 118: 0
+Signal 119: 0
+Signal 120: 0
+Signal 121: 0
+Signal 122: 0
+Signal 123: 1
+Signal 124: 0
+Signal 125: 0
+Signal 126: 0
+Signal 127: 1
+Signal 128: 1
+Signal 129: 0
+Signal 130: 0
+Signal 131: 0
+Signal 132: 0
+Signal 133: 0
+Signal 134: 1
+Signal 135: 1
+Signal 136: 1
+Signal 137: 0
+Signal 138: 0
+Signal 139: 1
+Signal 140: 0
+Signal 141: 1
+Signal 142: 0
+Signal 143: 0
+Signal 144: 0
+Signal 145: 1
+Signal 146: 1
+Signal 147: 1
+Signal 148: 0
+Signal 149: 0
+Signal 150: 0
+Signal 151: 0
+Signal 152: 0
+Signal 153: 0
+Signal 154: 0
+Signal 155: 1
+Signal 156: 1
+Signal 157: 1
+Signal 158: 0
+Signal 159: 1
+Signal 160: 1
+Signal 161: 0
+Signal 162: 0
+Signal 163: 0
+Signal 164: 0
+Signal 165: 1
+Signal 166: 0
+Signal 167: 0
+Signal 168: 0
+Signal 169: 0
+Signal 170: 1
+Signal 171: 1
+Signal 172: 1
+Signal 173: 0
+Signal 174: 1
+Signal 175: 1
+Signal 176: 0
+Signal 177: 1
+Signal 178: 1
+Signal 179: 0
+Signal 180: 0
+Signal 181: 1
+Signal 182: 0
+Signal 183: 0
+Signal 184: 1
+Signal 185: 0
+Signal 186: 0
+Signal 187: 0
+Signal 188: 1
+Signal 189: 0
+Signal 190: 0
+Signal 191: 1
+Signal 192: 1
+Signal 193: 1
+Signal 194: 0
+Signal 195: 0
+Signal 196: 0
+Signal 197: 0
+Signal 198: 1
+Signal 199: 1
+Signal 200: 1
+Signal 201: 1
+Signal 202: 0
+Signal 203: 0
+Signal 204: 1
+Signal 205: 0
+Signal 206: 0
+Signal 207: 0
+Signal 208: 0
+Signal 209: 1
+Signal 210: 0
+Signal 211: 0
+Signal 212: 1
+Signal 213: 0
+Signal 214: 0
+Signal 215: 1
+Signal 216: 0
+Signal 217: 0
+Signal 218: 1
+Signal 219: 1
+Signal 220: 0
+Signal 221: 0
+Signal 222: 0
+Signal 223: 0
+Signal 224: 1
+Signal 225: 0
+Signal 226: 0
+Signal 227: 1
+Signal 228: 0
+Signal 229: 1
+Signal 230: 0
+Signal 231: 1
+Signal 232: 0
+Signal 233: 0
+Signal 234: 1
+Signal 235: 1
+Signal 236: 1
+Signal 237: 1
+Signal 238: 0
+Signal 239: 1
+Signal 240: 1
+Signal 241: 0
+Signal 242: 0
+Signal 243: 0
+Signal 244: 1
+Signal 245: 1
+Signal 246: 0
+Signal 247: 1
+Signal 248: 0
+Signal 249: 1
+Signal 250: 0
+Signal 251: 0
+Signal 252: 0
+Signal 253: 0
+Signal 254: 1
+Signal 255: 1
+Signal 256: 1
+Signal 257: 0
+Signal 258: 1
+Signal 259: 0
+Signal 260: 0
+Signal 261: 1
+Signal 262: 0
+Signal 263: 1
+Signal 264: 1
+Signal 265: 0
+Signal 266: 0
+Signal 267: 1
+Signal 268: 0
+Signal 269: 1
+Signal 270: 0
+Signal 271: 0
+Signal 272: 0
+Signal 273: 0
+Signal 274: 0
+Signal 275: 1
+Signal 276: 0
+Signal 277: 1
+Signal 278: 0
+Signal 279: 1
+Signal 280: 0
+Signal 281: 0
+Signal 282: 0
+Signal 283: 0
+Signal 284: 1
+Signal 285: 0
+Signal 286: 0
+Signal 287: 1
+Signal 288: 1
+Signal 289: 0
+Signal 290: 1
+Signal 291: 1
+Signal 292: 1
+Signal 293: 1
+Signal 294: 1
+Signal 295: 1
+Signal 296: 0
+Signal 297: 1
+Signal 298: 0
+Signal 299: 1
+Signal 300: 1
+Signal 301: 1
+Signal 302: 1
+Signal 303: 0
+Signal 304: 0
+Signal 305: 1
+Signal 306: 0
+Signal 307: 1
+Signal 308: 1
+Signal 309: 0
+Signal 310: 1
+Signal 311: 1
+Signal 312: 0
+Signal 313: 1
+Signal 314: 1
+Signal 315: 1
+Signal 316: 1
+Signal 317: 0
+Signal 318: 1
+Signal 319: 1
+Signal 320: 0
+Signal 321: 1
+Signal 322: 1
+Signal 323: 1
+Signal 324: 0
+Signal 325: 0
+Signal 326: 0
+Signal 327: 0
+Signal 328: 1
+Signal 329: 1
+Signal 330: 1
+Signal 331: 0
+Signal 332: 1
+Signal 333: 1
+Signal 334: 0
+Signal 335: 0
+Signal 336: 0
+Signal 337: 1
+Signal 338: 1
+Signal 339: 0
+Signal 340: 0
+Signal 341: 1
+Signal 342: 0
+Signal 343: 1
+Signal 344: 0
+Signal 345: 0
+Signal 346: 1
+Signal 347: 0
+Signal 348: 1
+Signal 349: 1
+Signal 350: 1
+Signal 351: 1
+Signal 352: 1
+Signal 353: 1
+Signal 354: 1
+Signal 355: 1
+Signal 356: 1
+Signal 357: 1
+Signal 358: 0
+Signal 359: 1
+Signal 360: 1
+Signal 361: 1
+Signal 362: 0
+Signal 363: 0
+Signal 364: 0
+Signal 365: 0
+Signal 366: 0
+Signal 367: 1
+Signal 368: 1
+Signal 369: 1
+Signal 370: 1
+Signal 371: 0
+Signal 372: 1
+Signal 373: 0
+Signal 374: 0
+Signal 375: 0
+Signal 376: 0
+Signal 377: 0
+Signal 378: 1
+Signal 379: 1
+Signal 380: 0
+Signal 381: 1
+Signal 382: 1
+Signal 383: 1
+Signal 384: 0
+Signal 385: 1
+Signal 386: 1
+Signal 387: 1
+Signal 388: 1
+Signal 389: 0
+Signal 390: 1
+Signal 391: 1
+Signal 392: 0
+Signal 393: 0
+Signal 394: 1
+Signal 395: 1
+Signal 396: 1
+Signal 397: 0
+Signal 398: 0
+Signal 399: 0
+Signal 400: 0
+Signal 401: 1
+Signal 402: 0
+Signal 403: 1
+Signal 404: 0
+Signal 405: 1
+Signal 406: 0
+Signal 407: 0
+Signal 408: 0
+Signal 409: 1
+Signal 410: 0
+Signal 411: 0
+Signal 412: 0
+Signal 413: 0
+Signal 414: 1
+Signal 415: 1
+Signal 416: 1
+Signal 417: 0
+Signal 418: 1
+Signal 419: 0
+Signal 420: 0
+Signal 421: 1
+Signal 422: 1
+Signal 423: 1
+Signal 424: 0
+Signal 425: 1
+Signal 426: 1
+Signal 427: 0
+Signal 428: 1
+Signal 429: 1
+Signal 430: 1
+Signal 431: 0
+Signal 432: 0
+Signal 433: 0
+Signal 434: 0
+Signal 435: 1
+Signal 436: 0
+Signal 437: 1
+Signal 438: 0
+Signal 439: 0
+Signal 440: 0
+Signal 441: 1
+Signal 442: 1
+Signal 443: 0
+Signal 444: 0
+Signal 445: 1
+Signal 446: 1
+Signal 447: 0
+Signal 448: 0
+Signal 449: 0
+Signal 450: 1
+Signal 451: 1
+Signal 452: 0
+Signal 453: 0
+Signal 454: 0
+Signal 455: 1
+Signal 456: 0
+Signal 457: 1
+Signal 458: 1
+Signal 459: 0
+Signal 460: 1
+Signal 461: 0
+Signal 462: 0
+Signal 463: 0
+Signal 464: 1
+Signal 465: 1
+Signal 466: 0
+Signal 467: 1
+Signal 468: 1
+Signal 469: 0
+Signal 470: 1
+Signal 471: 1
+Signal 472: 0
+Signal 473: 0
+Signal 474: 0
+Signal 475: 0
+Signal 476: 0
+Signal 477: 0
+Signal 478: 1
+Signal 479: 1
+Signal 480: 1
+Signal 481: 0
+Signal 482: 1
+Signal 483: 1
+Signal 484: 1
+Signal 485: 1
+Signal 486: 1
+Signal 487: 1
+Signal 488: 0
+Signal 489: 0
+Signal 490: 0
+Signal 491: 0
+Signal 492: 1
+Signal 493: 1
+Signal 494: 0
+Signal 495: 1
+Signal 496: 1
+Signal 497: 1
+Signal 498: 1
+Signal 499: 0
+Signal 500: 1
+
+Additional Conclusions:
+Additional Conclusions:
+Number of Signals Affected by Solar Flare: 244
+Number of Signals Affected by Cosmic Ray: 256
+Number of Signals Under Normal Conditions: 0
+Percentage of Error Reduction:
+Hybrid Code vs Convolutional Code Error Reduction: 20.00%
+Hybrid Code vs Cyclic Code Error Reduction: 33.33%
